@@ -1,0 +1,11 @@
+C:\Users\sisrlopez\Documents\NETCore\HearthCodeCamp\CoffeeWorld\bin\Debug\netcoreapp3.1\CoffeeWorld.exe
+C:\Users\sisrlopez\Documents\NETCore\HearthCodeCamp\CoffeeWorld\bin\Debug\netcoreapp3.1\CoffeeWorld.deps.json
+C:\Users\sisrlopez\Documents\NETCore\HearthCodeCamp\CoffeeWorld\bin\Debug\netcoreapp3.1\CoffeeWorld.runtimeconfig.json
+C:\Users\sisrlopez\Documents\NETCore\HearthCodeCamp\CoffeeWorld\bin\Debug\netcoreapp3.1\CoffeeWorld.runtimeconfig.dev.json
+C:\Users\sisrlopez\Documents\NETCore\HearthCodeCamp\CoffeeWorld\bin\Debug\netcoreapp3.1\CoffeeWorld.dll
+C:\Users\sisrlopez\Documents\NETCore\HearthCodeCamp\CoffeeWorld\bin\Debug\netcoreapp3.1\CoffeeWorld.pdb
+C:\Users\sisrlopez\Documents\NETCore\HearthCodeCamp\CoffeeWorld\obj\Debug\netcoreapp3.1\CoffeeWorld.csprojAssemblyReference.cache
+C:\Users\sisrlopez\Documents\NETCore\HearthCodeCamp\CoffeeWorld\obj\Debug\netcoreapp3.1\CoffeeWorld.AssemblyInfoInputs.cache
+C:\Users\sisrlopez\Documents\NETCore\HearthCodeCamp\CoffeeWorld\obj\Debug\netcoreapp3.1\CoffeeWorld.AssemblyInfo.cs
+C:\Users\sisrlopez\Documents\NETCore\HearthCodeCamp\CoffeeWorld\obj\Debug\netcoreapp3.1\CoffeeWorld.dll
+C:\Users\sisrlopez\Documents\NETCore\HearthCodeCamp\CoffeeWorld\obj\Debug\netcoreapp3.1\CoffeeWorld.pdb
